@@ -7,7 +7,7 @@ Having moved from Imperial College London to Victoria University
  (Wellington, NZ) in 2004, I'm now enjoying life in New Zealand! At
  Imperial College, I was a PhD student in the department of
  Computing. My thesis topic was on pointer analysis, although this
- lead me in some interesting and alternative directions. Pointer
+ led me in some interesting and alternative directions. Pointer
  analysis is the problem of determining what the pointer variables in
  a program may point to without running it. Thus, it is a form of
  static analysis and an increasingly important component of compilers
